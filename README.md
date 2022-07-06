@@ -1,3 +1,13 @@
-# OneStop
-It's a E-commerce project developed using PHP. 
-Team please colloborate in the frontend branch for now, we would push our final commit in the master branch at the end.
+## OneStop
+
+## Author: Yash Mehta , Vrushank Amin, Vishal Gami
+
+### Description:
+
+We have developed an Ecommerce Website where customer can buy of variety clothes. 
+By using this system, the end user can buy the niche product online which are not 
+available in local markets. 
+Specification about various products and prices according to merchandise is
+provided to customer. 
+ 
+
